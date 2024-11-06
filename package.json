@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/node": "^22.9.0",
+    "jsdom": "^25.0.1",
+    "node-fetch-cache": "^5.0.2"
+  },
+  "name": "zillow-scraper",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
